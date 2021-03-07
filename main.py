@@ -17,7 +17,7 @@ import jsonpickle
 #print(workout.toJSON())
 
 #print('\r\n')
-with open('workouts.txt','w') as f:
+with open('workoutsTest.txt','w') as f:
   f.write('[')
   for item in g.workout_templates:
     workout = c.build_workout(item)

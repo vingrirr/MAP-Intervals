@@ -1,0 +1,651 @@
+[{
+    "MAP": 1.1,
+    "id": 1,
+    "interval_set": [
+        {
+            "recovery_duration": 120,
+            "rep_count": 8,
+            "work_duration": 30
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 7,
+            "work_duration": 30
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 7,
+            "work_duration": 30
+        }
+    ],
+    "set_recovery": 300,
+    "title": "3 x ~7 at 1.1 MAP",
+    "total_reps": 22
+},
+{
+    "MAP": 1.1,
+    "id": 2,
+    "interval_set": [
+        {
+            "recovery_duration": 180,
+            "rep_count": 4,
+            "work_duration": 60
+        },
+        {
+            "recovery_duration": 180,
+            "rep_count": 4,
+            "work_duration": 60
+        }
+    ],
+    "set_recovery": 600,
+    "title": "2 x ~4 at 1.1 MAP",
+    "total_reps": 8
+},
+{
+    "MAP": 1.1,
+    "id": 3,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 4,
+            "work_duration": 90
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~4 at 1.1 MAP",
+    "total_reps": 4
+},
+{
+    "MAP": 1.05,
+    "id": 4,
+    "interval_set": [
+        {
+            "recovery_duration": 60,
+            "rep_count": 8,
+            "work_duration": 30
+        },
+        {
+            "recovery_duration": 60,
+            "rep_count": 8,
+            "work_duration": 30
+        },
+        {
+            "recovery_duration": 60,
+            "rep_count": 7,
+            "work_duration": 30
+        },
+        {
+            "recovery_duration": 60,
+            "rep_count": 7,
+            "work_duration": 30
+        }
+    ],
+    "set_recovery": 180,
+    "title": "4 x ~7 at 1.05 MAP",
+    "total_reps": 30
+},
+{
+    "MAP": 1.05,
+    "id": 5,
+    "interval_set": [
+        {
+            "recovery_duration": 180,
+            "rep_count": 6,
+            "work_duration": 60
+        },
+        {
+            "recovery_duration": 180,
+            "rep_count": 6,
+            "work_duration": 60
+        }
+    ],
+    "set_recovery": 600,
+    "title": "2 x ~6 at 1.05 MAP",
+    "total_reps": 12
+},
+{
+    "MAP": 1.05,
+    "id": 6,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 7,
+            "work_duration": 90
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~7 at 1.05 MAP",
+    "total_reps": 7
+},
+{
+    "MAP": 1.05,
+    "id": 7,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 4,
+            "work_duration": 120
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~4 at 1.05 MAP",
+    "total_reps": 4
+},
+{
+    "MAP": 1.0,
+    "id": 8,
+    "interval_set": [
+        {
+            "recovery_duration": 120,
+            "rep_count": 6,
+            "work_duration": 60
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 6,
+            "work_duration": 60
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 6,
+            "work_duration": 60
+        }
+    ],
+    "set_recovery": 300,
+    "title": "3 x ~6 at 1.0 MAP",
+    "total_reps": 18
+},
+{
+    "MAP": 1.0,
+    "id": 9,
+    "interval_set": [
+        {
+            "recovery_duration": 180,
+            "rep_count": 5,
+            "work_duration": 90
+        },
+        {
+            "recovery_duration": 180,
+            "rep_count": 5,
+            "work_duration": 90
+        }
+    ],
+    "set_recovery": 600,
+    "title": "2 x ~5 at 1.0 MAP",
+    "total_reps": 10
+},
+{
+    "MAP": 1.0,
+    "id": 10,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 6,
+            "work_duration": 120
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~6 at 1.0 MAP",
+    "total_reps": 6
+},
+{
+    "MAP": 1.0,
+    "id": 11,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 4,
+            "work_duration": 150
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~4 at 1.0 MAP",
+    "total_reps": 4
+},
+{
+    "MAP": 0.95,
+    "id": 12,
+    "interval_set": [
+        {
+            "recovery_duration": 60,
+            "rep_count": 6,
+            "work_duration": 60
+        },
+        {
+            "recovery_duration": 60,
+            "rep_count": 6,
+            "work_duration": 60
+        },
+        {
+            "recovery_duration": 60,
+            "rep_count": 6,
+            "work_duration": 60
+        },
+        {
+            "recovery_duration": 60,
+            "rep_count": 6,
+            "work_duration": 60
+        }
+    ],
+    "set_recovery": 180,
+    "title": "4 x ~6 at 0.95 MAP",
+    "total_reps": 24
+},
+{
+    "MAP": 0.95,
+    "id": 13,
+    "interval_set": [
+        {
+            "recovery_duration": 120,
+            "rep_count": 5,
+            "work_duration": 90
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 5,
+            "work_duration": 90
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 4,
+            "work_duration": 90
+        }
+    ],
+    "set_recovery": 300,
+    "title": "3 x ~4 at 0.95 MAP",
+    "total_reps": 14
+},
+{
+    "MAP": 0.95,
+    "id": 14,
+    "interval_set": [
+        {
+            "recovery_duration": 180,
+            "rep_count": 5,
+            "work_duration": 120
+        },
+        {
+            "recovery_duration": 180,
+            "rep_count": 4,
+            "work_duration": 120
+        }
+    ],
+    "set_recovery": 600,
+    "title": "2 x ~4 at 0.95 MAP",
+    "total_reps": 9
+},
+{
+    "MAP": 0.95,
+    "id": 15,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 7,
+            "work_duration": 150
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~7 at 0.95 MAP",
+    "total_reps": 7
+},
+{
+    "MAP": 0.95,
+    "id": 16,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 5,
+            "work_duration": 180
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~5 at 0.95 MAP",
+    "total_reps": 5
+},
+{
+    "MAP": 0.95,
+    "id": 17,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 3,
+            "work_duration": 210
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~3 at 0.95 MAP",
+    "total_reps": 3
+},
+{
+    "MAP": 0.9,
+    "id": 18,
+    "interval_set": [
+        {
+            "recovery_duration": 120,
+            "rep_count": 7,
+            "work_duration": 90
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 7,
+            "work_duration": 90
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 6,
+            "work_duration": 90
+        }
+    ],
+    "set_recovery": 300,
+    "title": "3 x ~6 at 0.9 MAP",
+    "total_reps": 20
+},
+{
+    "MAP": 0.9,
+    "id": 19,
+    "interval_set": [
+        {
+            "recovery_duration": 120,
+            "rep_count": 5,
+            "work_duration": 120
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 5,
+            "work_duration": 120
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 4,
+            "work_duration": 120
+        }
+    ],
+    "set_recovery": 300,
+    "title": "3 x ~4 at 0.9 MAP",
+    "total_reps": 14
+},
+{
+    "MAP": 0.9,
+    "id": 20,
+    "interval_set": [
+        {
+            "recovery_duration": 180,
+            "rep_count": 5,
+            "work_duration": 150
+        },
+        {
+            "recovery_duration": 180,
+            "rep_count": 5,
+            "work_duration": 150
+        }
+    ],
+    "set_recovery": 600,
+    "title": "2 x ~5 at 0.9 MAP",
+    "total_reps": 10
+},
+{
+    "MAP": 0.9,
+    "id": 21,
+    "interval_set": [
+        {
+            "recovery_duration": 180,
+            "rep_count": 4,
+            "work_duration": 180
+        },
+        {
+            "recovery_duration": 180,
+            "rep_count": 4,
+            "work_duration": 180
+        }
+    ],
+    "set_recovery": 600,
+    "title": "2 x ~4 at 0.9 MAP",
+    "total_reps": 8
+},
+{
+    "MAP": 0.9,
+    "id": 22,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 6,
+            "work_duration": 210
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~6 at 0.9 MAP",
+    "total_reps": 6
+},
+{
+    "MAP": 0.9,
+    "id": 23,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 4,
+            "work_duration": 240
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~4 at 0.9 MAP",
+    "total_reps": 4
+},
+{
+    "MAP": 0.9,
+    "id": 24,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 3,
+            "work_duration": 270
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~3 at 0.9 MAP",
+    "total_reps": 3
+},
+{
+    "MAP": 0.85,
+    "id": 25,
+    "interval_set": [
+        {
+            "recovery_duration": 60,
+            "rep_count": 8,
+            "work_duration": 90
+        },
+        {
+            "recovery_duration": 60,
+            "rep_count": 8,
+            "work_duration": 90
+        },
+        {
+            "recovery_duration": 60,
+            "rep_count": 7,
+            "work_duration": 90
+        },
+        {
+            "recovery_duration": 60,
+            "rep_count": 7,
+            "work_duration": 90
+        }
+    ],
+    "set_recovery": 180,
+    "title": "4 x ~7 at 0.85 MAP",
+    "total_reps": 30
+},
+{
+    "MAP": 0.85,
+    "id": 26,
+    "interval_set": [
+        {
+            "recovery_duration": 120,
+            "rep_count": 8,
+            "work_duration": 120
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 7,
+            "work_duration": 120
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 7,
+            "work_duration": 120
+        }
+    ],
+    "set_recovery": 300,
+    "title": "3 x ~7 at 0.85 MAP",
+    "total_reps": 22
+},
+{
+    "MAP": 0.85,
+    "id": 27,
+    "interval_set": [
+        {
+            "recovery_duration": 120,
+            "rep_count": 6,
+            "work_duration": 150
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 5,
+            "work_duration": 150
+        },
+        {
+            "recovery_duration": 120,
+            "rep_count": 5,
+            "work_duration": 150
+        }
+    ],
+    "set_recovery": 300,
+    "title": "3 x ~5 at 0.85 MAP",
+    "total_reps": 16
+},
+{
+    "MAP": 0.85,
+    "id": 28,
+    "interval_set": [
+        {
+            "recovery_duration": 180,
+            "rep_count": 7,
+            "work_duration": 180
+        },
+        {
+            "recovery_duration": 180,
+            "rep_count": 6,
+            "work_duration": 180
+        }
+    ],
+    "set_recovery": 600,
+    "title": "2 x ~6 at 0.85 MAP",
+    "total_reps": 13
+},
+{
+    "MAP": 0.85,
+    "id": 29,
+    "interval_set": [
+        {
+            "recovery_duration": 180,
+            "rep_count": 5,
+            "work_duration": 210
+        },
+        {
+            "recovery_duration": 180,
+            "rep_count": 5,
+            "work_duration": 210
+        }
+    ],
+    "set_recovery": 600,
+    "title": "2 x ~5 at 0.85 MAP",
+    "total_reps": 10
+},
+{
+    "MAP": 0.85,
+    "id": 30,
+    "interval_set": [
+        {
+            "recovery_duration": 180,
+            "rep_count": 4,
+            "work_duration": 240
+        },
+        {
+            "recovery_duration": 180,
+            "rep_count": 4,
+            "work_duration": 240
+        }
+    ],
+    "set_recovery": 600,
+    "title": "2 x ~4 at 0.85 MAP",
+    "total_reps": 8
+},
+{
+    "MAP": 0.85,
+    "id": 31,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 7,
+            "work_duration": 270
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~7 at 0.85 MAP",
+    "total_reps": 7
+},
+{
+    "MAP": 0.85,
+    "id": 32,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 6,
+            "work_duration": 300
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~6 at 0.85 MAP",
+    "total_reps": 6
+},
+{
+    "MAP": 0.85,
+    "id": 33,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 5,
+            "work_duration": 330
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~5 at 0.85 MAP",
+    "total_reps": 5
+},
+{
+    "MAP": 0.85,
+    "id": 34,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 4,
+            "work_duration": 360
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~4 at 0.85 MAP",
+    "total_reps": 4
+},
+{
+    "MAP": 0.85,
+    "id": 35,
+    "interval_set": [
+        {
+            "recovery_duration": 300,
+            "rep_count": 3,
+            "work_duration": 390
+        }
+    ],
+    "set_recovery": 0,
+    "title": "1 x ~3 at 0.85 MAP",
+    "total_reps": 3
+},
+]
